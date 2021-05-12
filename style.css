@@ -14,7 +14,7 @@ p {
 }
 h1,h2,h3 {
   font-weight: 400;
-  margin 0;
+  margin: 10px 0;
 }
 h1 {
   font-size: 36px;
@@ -25,15 +25,30 @@ h2 {
   border-bottom: 1px solid grey;
   margin-bottom: 8px;
 }
-.header-title {
+h3 {
+  font-size: 24px;
+}
+.data {
+  margin-left: 40px;
+}
+.projects, .about-me, .skills, .english, .github {
+  margin-left: 40px;
+}
+/* .contacts {
+  margin: 20px 0;
+} */
+/* .header-title {
   font-size: 18px;
   border-bottom: none;
-  margin-bottom: 10px; 
-}
-#header {
+  margin: 20px 0px; 
+} */
+/* #header {
   text-align: center;
   margin-bottom: 32px; 
-}
+} */
+/* #header h2 {
+  color: blue;
+} */
 #footer {
   text-align: center;
   margin-top: 64px; 
