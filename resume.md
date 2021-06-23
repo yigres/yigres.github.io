@@ -86,6 +86,7 @@
 ### Контакт
 * email: sk@yigres.ru  
 * tg: @yigres76
+* ![image](https://www.codewars.com/users/yigres/badges/micro)
 
 ## Работа
 ---
